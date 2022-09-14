@@ -1,4 +1,4 @@
-# Telegram-RazerMSDeveloperForum
+# Telegram-RMSDeveloperForum
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/19460508/186857931-f3822515-d2c0-4f69-aa20-bda43d72424d.png" width="200px"/>
@@ -6,7 +6,7 @@
 
 ### [Join our Telegram group chat here](https://t.me/+elhpXwRFvhg5ODRl)
 
-Welcome to RazerMS Developer Forum! This is a group where we discuss about what RazerMS has to offer to the community, including but not limited to discussions about products and integration. All members who wish to stay here are required to follow the rules depicted, for the sake of creating a harmonious and progressive community, and to protect everyone's interests in the group. Failure to abide by such rules will result in bad consequences such as banning of the individuals from this group indefinitely.
+Welcome to RMS Developer Forum! This is a group where we discuss about what RMS has to offer to the community, including but not limited to discussions about products and integration. All members who wish to stay here are required to follow the rules depicted, for the sake of creating a harmonious and progressive community, and to protect everyone's interests in the group. Failure to abide by such rules will result in bad consequences such as banning of the individuals from this group indefinitely.
 
 ### Rule #1. No Harrassment
 Do not engage in or post content/messages which encourage the harassment of individuals or certain communities.
