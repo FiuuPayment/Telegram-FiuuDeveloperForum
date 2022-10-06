@@ -7,7 +7,7 @@
     </td>
     <td>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://user-images.githubusercontent.com/19460508/194284148-c3f24b6b-f875-4919-9ae5-d19f83d4941d.png" width="100px"/>
+      <img src="https://user-images.githubusercontent.com/19460508/194284148-c3f24b6b-f875-4919-9ae5-d19f83d4941d.png" width="80px"/>
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="margin:0;float:right;">
