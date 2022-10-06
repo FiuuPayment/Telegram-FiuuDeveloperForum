@@ -2,6 +2,10 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/19460508/186857931-f3822515-d2c0-4f69-aa20-bda43d72424d.png" width="200px"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/19460508/194284148-c3f24b6b-f875-4919-9ae5-d19f83d4941d.png" width="100px" style="display:block;float:none;object-fit:none;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/19460508/194282040-20373ebc-daa6-4e7c-9c05-eb2ce23d055b.png" width="400px"/>
 </p>
 
 ### [Join our Telegram group chat here](https://t.me/+elhpXwRFvhg5ODRl)
