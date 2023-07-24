@@ -53,3 +53,5 @@ To promote a harmonious atmosphere on the group, the moderators and administrato
 ### Rule #11. No Sharing of PII or Sensitive Data
 To protect the privacy of all members and merchants, do not share any PII such as NRIC or merchant's secret key, or credit/debit card numbers which will result in financial loss of the victims.
 
+### Rule #12. Readible Display Name
+Only users with readible/pronouncible display name will be accepted into the group.
