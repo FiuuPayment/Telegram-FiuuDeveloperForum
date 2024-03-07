@@ -1,4 +1,4 @@
-# Telegram-RMSDeveloperForum
+# Telegram-FiuuDeveloperForum
 
 <table align="center">
   <tr>
@@ -11,14 +11,14 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td style="margin:0;float:right;">
-      <img src="https://user-images.githubusercontent.com/19460508/194282040-20373ebc-daa6-4e7c-9c05-eb2ce23d055b.png" width="400px"/>
+      <img src="https://github.com/FiuuPayment/Telegram-FiuuDeveloperForum/assets/5105608/e07e852e-9876-4da3-a7e1-b90b3ffcb7a0" width="350px">
     </td>
   </tr>
 </table>
 
 ### [Join our Telegram group chat here](https://t.me/+elhpXwRFvhg5ODRl)
 
-Welcome to RMS Developer Forum! This is a group where we discuss about what RMS has to offer to the community, including but not limited to discussions about products and integration. All members who wish to stay here are required to follow the rules depicted, for the sake of creating a harmonious and progressive community, and to protect everyone's interests in the group. Failure to abide by such rules will result in bad consequences such as banning of the individuals from this group indefinitely.
+Welcome to Fiuu Developer Forum! This is a group where we discuss about what we has to offer to the community, including but not limited to discussions about products and integration. All members who wish to stay here are required to follow the rules depicted, for the sake of creating a harmonious and progressive community, and to protect everyone's interests in the group. Failure to abide by such rules will result in bad consequences such as banning of the individuals from this group indefinitely.
 
 ### Rule #1. No Harrassment
 Do not engage in or post content/messages which encourage the harassment of individuals or certain communities.
